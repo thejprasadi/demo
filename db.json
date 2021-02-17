@@ -1,8 +1,20 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+     {
+      "id": 1,
+      "phoneNumber": "1234567890",
+      "eid": "12345",
+      "dob": "11/11/2000",
+	  "password" :"abc123"
+    },
+    {
+      "id": 2,
+      "phoneNumber": "5678901234",
+      "eid": "45678",
+      "dob": "11/11/2000",
+	  "password" :"abc345"
+    }
+   
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
