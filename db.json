@@ -18,5 +18,15 @@
 	  
     }
    
+  ],
+	equipment": [
+    {
+      "id":12345,    
+      "equipment": "Laptop",
+      "reason": "can not open",
+      "date": "11/11/2000"
+	  
+    }
+   
   ]
 }
