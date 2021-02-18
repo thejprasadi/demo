@@ -1,14 +1,13 @@
 {
   "employees": [
     {
-      "id": 1,
       "phoneNumber": "1234567890",
       "eid": "12345",
       "dob": "11/11/2000",
 	  "password" :"abc123"
     },
     {
-      "id": 2,
+
       "phoneNumber": "5678901234",
       "eid": "45678",
       "dob": "11/11/2000",
