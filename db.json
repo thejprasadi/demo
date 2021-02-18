@@ -1,10 +1,14 @@
 {
-  "emp": [
-    { "id": 1, "phoneNumber": "1234567890", "password": "abs123" },
-    { "id": 2, "phoneNumber": "1234567890", "password": "abs123" }
-  ],
-  "issue": [
-    { "id": 1, "category": "", "palnedSolveDte": 1 },
-     { "id": 3, "category": "", "palnedSolveDte": 1 }
-  ]
-}
+      "id": 1,
+      "phoneNumber": "1234567890",
+      "eid": "12345",
+      "dob": "11/11/2000",
+	  "password" :"abc123"
+    },
+    {
+      "id": 2,
+      "phoneNumber": "5678901234",
+      "eid": "45678",
+      "dob": "11/11/2000",
+	  "password" :"abc345"
+    }
