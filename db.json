@@ -3,40 +3,30 @@
     {
       "id": "1",
       "employee_id": 1,
-      "phoneNumber": "4567890123",
-      "password": "cde123",
-      "dob": ""
+      "returnCode": "0",
+      "returnMessage": "API data",
+      "maternity": 14
     },
     {
       "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
-    },
-   {
-      "id": "3",
-      "equipment": "null",
-      "date": "null"
-    },
+      "type": "sick",
+      "start": "28-07-2020",
+      "end": "30-07-2020"
+    }
   ],
-  
   "employee_2": [
     {
       "id": "1",
-      "employee_id": 1,
-      "phoneNumber": "1234567890",
-      "password": "abc123",
-      "dob": ""
+      "employee_id": 2,
+      "sick": 4,
+      "regular": 15,
+      "maternity": 14
     },
     {
       "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
-    },
-   {
-      "id": "3",
-      "equipment": "null",
-      "date": "null"
-    },
+      "type": "regular",
+      "start": "03-08-2020",
+      "end": "05-08-2020"
+    }
   ]
+}
