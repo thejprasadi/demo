@@ -1,43 +1,10 @@
 {
-  "employee_1": [
-    {
-      "id": "1",
-      "employee_id": 1,
-      "phoneNumber": "4567890123",
-      "password": "cde123",
-      "dob": ""
-    },
-    {
-      "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
-    },
-   {
-      "id": "3",
-      "equipment": "null",
-      "date": "null"
-    },
+  "emp": [
+    { "id": 1, "phoneNumber": "1234567890", "password": "abs123" }
   ],
-  
-  "employee_2": [
-    {
-      "id": "1",
-      "employee_id": 1,
-      "phoneNumber": "1234567890",
-      "password": "abc123",
-      "dob": ""
-    },
-    {
-      "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
-    },
-   {
-      "id": "3",
-      "equipment": "null",
-      "date": "null"
-    },
-  ]
+  "issue": [
+    { "id": 1, "category": "", "palnedSolveDte": 1 }
+  ],
+  "equipment": { "name": "typicode","orderDate":"111" }
 }
+
