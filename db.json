@@ -5,8 +5,6 @@
   ],
   "issue": [
     { "id": 1, "category": "", "palnedSolveDte": 1 },
-     { "id": 2, "category": "", "palnedSolveDte": 1 },
-  ],
-  "equipment": [{ "name": "typicode","orderDate":"111" },
-               { "name": "typi","orderDate":"111" }]
+     { "id": 2, "category": "", "palnedSolveDte": 1 }
+  ]
 }
