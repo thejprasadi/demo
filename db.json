@@ -5,19 +5,19 @@
       "employee_id": 1,
       "phoneNumber": "4567890123",
       "password": "cde123",
-      "dob": ""
+      "dob": "111"
     },
     {
       "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
+      "issueDiscription": "ppp",
+      "issueCategory": "lll",
+      "planSolveDate": "llll"
     },
    {
       "id": "3",
-      "equipment": "null",
-      "date": "null"
-    },
+      "equipment": "kkk",
+      "date": ",,,,"
+    }
   ],
   
   "employee_2": [
@@ -26,18 +26,18 @@
       "employee_id": 1,
       "phoneNumber": "1234567890",
       "password": "abc123",
-      "dob": ""
+      "dob": "mm"
     },
     {
       "id": "2",
-      "issueDiscription": "null",
-      "issueCategory": "null",
-      "planSolveDate": "null"
+      "issueDiscription": "kkk",
+      "issueCategory": "hhh",
+      "planSolveDate": "jjj"
     },
    {
       "id": "3",
-      "equipment": "null",
-      "date": "null"
+      "equipment": "jj",
+      "date": "nll"
     }
   ]
 }
