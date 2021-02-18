@@ -1,9 +1,12 @@
 {
   "emp": [
-    { "id": 1, "phoneNumber": "1234567890", "password": "abs123" }
+    { "id": 1, "phoneNumber": "1234567890", "password": "abs123" },
+    { "id": 2, "phoneNumber": "1234567890", "password": "abs123" }
   ],
   "issue": [
-    { "id": 1, "category": "", "palnedSolveDte": 1 }
+    { "id": 1, "category": "", "palnedSolveDte": 1 },
+     { "id": 2, "category": "", "palnedSolveDte": 1 },
   ],
-  "equipment": { "name": "typicode","orderDate":"111" }
+  "equipment": [{ "name": "typicode","orderDate":"111" },
+               { "name": "typi","orderDate":"111" }]
 }
